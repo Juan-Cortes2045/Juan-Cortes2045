@@ -38,5 +38,5 @@ Soy estudiante del SENA enfocado en desarrollo de software. Me interesa el backe
 ---
 
 ## 📫 Contacto
-- 📧 Email: tu_correo@gmail.com
+- 📧 Email: juanestebanp171@gmail.com
 - 💻 GitHub: https://github.com/juanestebanp171
