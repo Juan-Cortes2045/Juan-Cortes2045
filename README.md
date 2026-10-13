@@ -1,15 +1,15 @@
 <!--
 CONFIG
-FULL_NAME: Juan Esteban Cortes
+FULL_NAME: Juan Esteban Cortes Parra
 GITHUB_USER: Juan-Cortes2045
 EMAIL: juanestebanp171@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
 
-<h1 align="center">Juan Esteban Cortes</h1>
+<h1 align="center">Juan Esteban Cortes Parra</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juan-Cortes2045&label=Profile%20views&style=flat-square&color=brightgreen" alt="Profile views">
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Juan-Cortes2045&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
 
 ---
